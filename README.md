@@ -1,4 +1,4 @@
-# LM3886 IC amplifier with balanced inputs using THT components
+# LM3886 IC amplifier with balanced inputs using THT and SMD components
 Schematics and PCB layout for balanced inputs LM3886 amplifier. Created using KiCad v5.
 
 Resources used to design this amp:
