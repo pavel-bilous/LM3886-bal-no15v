@@ -30,6 +30,6 @@ Schematics is below:
 
 # PCB notes:
 
-Combination of THT and SMD components is used.
+THT components are used.
 
 ![Screenshot](img/pcb.png)
