@@ -290,7 +290,7 @@ U 1 1 64288129
 P 5050 3200
 F 0 "C11" H 5165 3246 50  0000 L CNN
 F 1 "100n" H 5165 3155 50  0000 L CNN
-F 2 "footprints:C_Disc_D3.8mm_W2.6mm_P2.50mm_centered" H 5088 3050 50  0001 C CNN
+F 2 "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm" H 5088 3050 50  0001 C CNN
 F 3 "~" H 5050 3200 50  0001 C CNN
 	1    5050 3200
 	1    0    0    -1  
